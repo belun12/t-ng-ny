@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Babe à!',
-    introDesc: `Giới hạn của hàm số là lim, còn giới hạn của trái tim là Thạch.
+    introDesc: `Giới hạn của hàm số là lim, còn giới hạn của trái tim là Thạch
     Hôm nay anh học online. Bị điểm kém môn Anh. Cô dạy “Yêu” là “Love”. Mà anh viết tên Thạch.`,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
