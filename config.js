@@ -1,12 +1,12 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Giới hạn của hàm số là lim, còn giới hạn của trái tim là Thạch
-    Hôm nay anh học online. Bị điểm kém môn Anh. Cô dạy “Yêu” là “Love”. Mà anh viết tên Thạch.`,
+    introTitle: 'Bé à!',
+    introDesc: `Giới hạn của hàm số là lim, còn giới hạn của trái tim là Nhật
+    Hôm nay anh học online. Bị điểm kém môn Anh. Cô dạy “Yêu” là “Love”. Mà anh viết tên Nhật.`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thương Phong <33',
-    btnNo: 'Không, Phong nhĩ à:3',
+    title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 😙',
+    desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
+    btnYes: 'Vẫn cứ là thương Nhật <33',
+    btnNo: 'Không, Baby à:3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu Phong  <3',
     btnReply: 'Gửi cho Phong <3',
     reply: 'Nhớ Phong nhiều lắm <33333333',
